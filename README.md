@@ -60,7 +60,7 @@
 
 
 
-### Name:M SRINATH
+### Name: M SRINATH
 ### Register Number: 212222230147
 
 ## RESULT:
